@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+##ALI REZA NV
 
-You can use the [editor on GitHub](https://github.com/alirezanv/alirezanv.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#About me
+I'm Reza. Civil engineering pursuing student in MESCE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###contact me
++91 812919845
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
