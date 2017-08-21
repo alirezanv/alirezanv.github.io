@@ -15,8 +15,12 @@ Batch A
 # Day 1 : Introduction to Fablab 
 
 HOW TO MAKE ALMOST ANYTHING..
-<img src="20170803_165959.jpg" width="350">
+
+<img src="all.JPG" width="350">
 <img src="LAB.jpg" width="350">
+
+<img src="20170803_165959.jpg" width="350">
+<img src="3d.JPG" width="350">
 
 
 
