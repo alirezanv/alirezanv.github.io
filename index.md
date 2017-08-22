@@ -24,22 +24,29 @@ HOW TO MAKE ALMOST ANYTHING..
 <img src="LAB.jpg" width="500">
 
 <img src="20170803_165959.jpg" width="350">
-<img src="3d.JPG" width="350">
 
 
 
-Day 2 : Github Pages and Documentation
+
+# Day 2 : Github Pages and Documentation
                                
-Day 3: Electronics Production and CNC
-                                
-DAY 4 : Vinyl Cutting
+   https://alirezanv.github.io/                            
+
+# Day 3: Electronics Production and CNC
+                               <img src="milling 1.jpg" width="350">
+                               
+                               
+# DAY 4 : Vinyl Cutting
                                 	
 DAY 5 : Screen Printing
                                 	
-DAY 6 : 3D Printing
+# DAY 6 : 3D Printing
+<img src="3d.JPG" width="350">
                                 
-Day 7 : Laser Cutting,Moulding and Casting
-                                
+# Day 7 : Laser Cutting,Moulding and Casting
+<img src="3d.JPG" width="350">
+
+
 Project
 
 
