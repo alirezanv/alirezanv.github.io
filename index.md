@@ -1,6 +1,8 @@
 ##ALI REZA NV
 
-#About me
+# About me
+
+
 I'm Reza. Civil engineering pursuing student in MESCE
 Intrested in digital fabrications..
 
@@ -19,7 +21,7 @@ Batch A
 HOW TO MAKE ALMOST ANYTHING..
 
 <img src="all.JPG" width="350">
-<img src="LAB.jpg" width="350">
+<img src="LAB.jpg" width="500">
 
 <img src="20170803_165959.jpg" width="350">
 <img src="3d.JPG" width="350">
