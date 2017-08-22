@@ -22,7 +22,6 @@ HOW TO MAKE ALMOST ANYTHING..
 
 <img src="all.JPG" width="350">
 <img src="LAB.jpg" width="500">
-
 <img src="20170803_165959.jpg" width="350">
 
 
@@ -37,6 +36,7 @@ HOW TO MAKE ALMOST ANYTHING..
 <img src="shopbot.jpg" width="500">
 
 CNC
+Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone-
 
       <img src="milling 1.jpg" width="350">
                                
