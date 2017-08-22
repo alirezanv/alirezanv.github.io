@@ -37,7 +37,7 @@ HOW TO MAKE ALMOST ANYTHING..
                                
                                
 # DAY 4 : Vinyl Cutting
-                  <img src="vynyl.jpg" width="350">               	
+  <img src="vynyl.jpg" width="350">               	
 DAY 5 : Screen Printing
                                 	
 # DAY 6 : 3D Printing
