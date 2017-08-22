@@ -7,7 +7,7 @@ I'm Reza. Civil engineering pursuing student in MESCE
 Intrested in digital fabrications..
 
 
-###contact me
+## contact me
 +91 8129198458
 
 [follow me on fb ](https://www.facebook.com)
@@ -33,6 +33,11 @@ HOW TO MAKE ALMOST ANYTHING..
    https://alirezanv.github.io/                            
 
 # Day 3: Electronics Production and CNC
+
+<img src="shopbot.jpg" width="500">
+
+CNC
+
       <img src="milling 1.jpg" width="350">
                                
                                
