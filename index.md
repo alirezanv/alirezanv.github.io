@@ -91,6 +91,9 @@ We created a mirror sticker of "FABLAB MESCE" in vinyl cutting machine.
 -Then the colour is applied on T-shirt by applying to&fro action of other piece of tool
 -After kept to sunlight. It became sticken
 
+<img src="mes.jpg" width="350">
+
+<img src="print.jpg" width="350">
 # DAY 6 : 3D Printing
 The term “3D printing” originally referred to a process that deposits a binder material onto a powder bed with inkjet printer heads layer by layer. More recently, the term is being used in popular vernacular to encompass a wider variety of additive manufacturing techniques. United States and global technical standards use the official term additive manufacturing for this broader sense. ISO/ASTM52900-15 defines seven categories of AM processes within its meaning: binder jetting, directed energy deposition, material extrusion, material jetting, powder bed fusion, sheet lamination and vat photopolymerization.
 
