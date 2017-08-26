@@ -55,10 +55,11 @@ Now you are ready to go. Open the file and edit it using markdown, html or anyth
 <img src="shopbot.jpg" width="500">
 
 CNC
-Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone-
+Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone
 
-      <img src="milling 1.jpg" width="350">
-      Our aim in this section was to complete PCB milling and cutting and also to solder the PCB. Unfortunately we couln’t accomplish this due to technical crisis as im an civil engineering student
+<img src="milling 1.jpg" width="350">
+      
+Our aim in this section was to complete PCB milling and cutting and also to solder the PCB. Unfortunately we couln’t accomplish this due to technical crisis as im an civil engineering student
                                
                                
 # DAY 4 : Vinyl Cutting
@@ -76,7 +77,7 @@ Your design is ready to be cut.
 
 
 # DAY 5 : Screen Printing
-
+<img src="screen.jpg" width="350">
                                 	
 # DAY 6 : 3D Printing
 <img src="mob.jpg" width="350">
@@ -84,6 +85,9 @@ Your design is ready to be cut.
 # Day 7 : Laser Cutting,Moulding and Casting
 <img src="key.jpg" width="350">
 
+# Moulding and Casting
+
+<img src="mould.jpg" width="350">
 
 Project
 
