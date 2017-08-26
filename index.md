@@ -66,8 +66,17 @@ A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters loo
 
 So, you could say vinyl cutting can be used to make your own customised stickers etc..It is fun to work with. We can just design anything and then cut it using the software
 CutShop
-  <img src="vynyl.jpg" width="350">               	
-DAY 5 : Screen Printing
+  <img src="vynyl.jpg" width="350">    
+  STEPS
+
+Create your design using any software of your choice or choose one from any browser and open the file using the CutShop software. The image must be preferably gray scale to get the accurate design.
+Right click and select trace the image outline. Change the settings as required and press enter key.
+Now you can adjust the size of vinyl to be used : Right click on the image and select Properties. ( The size is in mm .)
+Your design is ready to be cut. 
+
+
+# DAY 5 : Screen Printing
+
                                 	
 # DAY 6 : 3D Printing
 <img src="mob.jpg" width="350">
