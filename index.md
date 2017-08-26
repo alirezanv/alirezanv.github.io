@@ -17,6 +17,7 @@ Intrested in digital fabrications..
 Batch A 
 
 # Day 1 : Introduction to Fablab 
+"FabLab - MESCE” is digital manufacturing technology, combininig 2D and 3D design with the latest fabrication technology. Embracing a broad spectrum of methods ranging from CNC machining to 3D printing, and even PCB Milling. It can produce a single unique product from a digital design in a matter of minutes- and at a very low cost in comparison to traditional tooling methods.
 
 HOW TO MAKE ALMOST ANYTHING..
 
