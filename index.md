@@ -1,6 +1,6 @@
 ## ALI REZA NV
 
-# About me
+#About me
 
 
 I'm Reza. Civil engineering pursuing student in MESCE
@@ -128,4 +128,8 @@ stl means that stereolithography file format used for the 3D structue designing.
 <img src="1.jpg" width="350">
  
 Then save the .gcode file in the Removable Disk of the 3D printer.Start printing. 
+Print : to select the file from the memory card Material : to specify what kind of material is loaded into the machine. Maintainance: to change the setting on the machine regarding nozzle size, power used etc.
+
+After the settings are done, the machine takes a while to start printing because the material has to get heated. Then you can see the 3D printer printing your 2D design layer by layer.
+
 <img src="2.jpg" width="350">
