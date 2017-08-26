@@ -46,6 +46,10 @@ STEPS
 -Name your repository username.github.io, replacing username with your GitHub username. Be sure it is public and go ahead and tell GitHub to create a README/index.md file upon generating the repo.
 
   Now that your repository is ready. Create a readme/index.md file .
+  
+  https://github.com/alirezanv/alirezanv.github.io/edit/master/index.md
+  
+  
 Now you are ready to go. Open the file and edit it using markdown, html or anything of your choice. You can follow this link if you need help https://guides.github.com/features/mastering-markdown/
 
 
@@ -78,17 +82,37 @@ Your design is ready to be cut.
 
 # DAY 5 : Screen Printing
 <img src="screen.jpg" width="350">
-                                	
+
+We created a mirror sticker of "FABLAB MESCE" in vinyl cutting machine. 
+-Then sticked it to screen printing wooden frame.
+-Then the red colour is applied to it
+-The T-shirt is cleaned for applying print
+-The frame is kept firmly on the T-shirt 
+-Then the colour is applied on T-shirt by applying to&fro action of other piece of tool
+-After kept to sunlight. It became sticken
+
 # DAY 6 : 3D Printing
+The term “3D printing” originally referred to a process that deposits a binder material onto a powder bed with inkjet printer heads layer by layer. More recently, the term is being used in popular vernacular to encompass a wider variety of additive manufacturing techniques. United States and global technical standards use the official term additive manufacturing for this broader sense. ISO/ASTM52900-15 defines seven categories of AM processes within its meaning: binder jetting, directed energy deposition, material extrusion, material jetting, powder bed fusion, sheet lamination and vat photopolymerization.
+
 <img src="mob.jpg" width="350">
                                 
 # Day 7 : Laser Cutting,Moulding and Casting
 <img src="key.jpg" width="350">
+Laser Cutter can used for two functions
+
+Cutting
+
+Engraving
+
+I started with Laser Cutter , I was thinking about to design a keychain with my name on it , and I choose my picture to engarve that on a carboard. there are two types of functions by using a laser cutter, they are cutting and engraving. the function determined by system configuration such as power , speed and image type whether it is rastor or vector.
 
 # Moulding and Casting
+Casting is a manufacturing process in which a molten material is introduced into a solid mold and allowed to solidify. The solid material takes the shape of the mold. The term usually refers to metals but can also apply to the same process for other materials. Ceramics can be “slip cast” and polymers can also be cast. Molding refers to shaping a material that is soft but not fully liquid. (Think wet clay, for instance) Molding as a process might also use a mold to shape the soft material, but doesn’t necessarily require one.
 
 <img src="mould.jpg" width="350">
 
 Project
 
-
+Nowadays it is more required of mobile holders
+<img src="mob.jpg" width="350">
+                                
