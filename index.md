@@ -114,8 +114,18 @@ Casting is a manufacturing process in which a molten material is introduced into
 
 <img src="mould.jpg" width="350">
 
-Project
 
-Nowadays it is more required of mobile holders
+
+# Project
 <img src="mob.jpg" width="350">
-                                
+Nowadays it is more required a mobile holders
+First of all you need to design the prototype using any of the appropriate softwares such as Rhinoceros, Adobe Illustrator, Solidworks etc. Why do you have to use the specific softwares ? Well you are going to turn your 2D design to a 3D model , Aren’t you? This 2D image must be readable by the 3D printer. This format is the Gcode.
+After you are done designing, save the file in STL format.
+stl means that stereolithography file format used for the 3D structue designing.
+
+3D printer reads only G-codes so that we have to convert the .stl format file into .gcode format. For the conversion we can use any softwares which converts the files into .gcode format. Here our 3D printer is ULTIMAKER 2+. it has it’s own customized software called CURA for the conversion of 3D structures into .gcode format.
+
+<img src="1.jpg" width="350">
+ 
+Then save the .gcode file in the Removable Disk of the 3D printer.Start printing. 
+<img src="2.jpg" width="350">
