@@ -39,9 +39,9 @@ Maintaining github pages is pretty simple. All you have to do is to follow a few
 
 STEPS
 
-Create an account in github. If you already have one, well and good. If not just click on the link given: I want to create an account in github
+-Create an account in github.just click on the link given
 
-Create your project’s repository. Login to your GitHub account and go to https://github.com/new or click the New repository icon from your account homepage.
+-Create your project’s repository. Login to your GitHub account and go to https://github.com/new or click the New repository icon from your account homepage.
 
 # Day 3: Electronics Production and CNC
 
